@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'D:\Tuduylaptrinh\git-demo\Dev_at_Apple\MainWindow.ui'
+# Form implementation generated from reading ui file 'D:\Document\UEL\ProgrammingLogic\Code_K23416\Pthb2\MainWindow.ui'
 #
 # Created by: PyQt6 UI code generator 6.7.1
 #
@@ -63,7 +63,7 @@ class Ui_MainWindow(object):
         self.pushButton.setObjectName("pushButton")
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(parent=MainWindow)
-        self.menubar.setGeometry(QtCore.QRect(0, 0, 800, 18))
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 800, 21))
         self.menubar.setObjectName("menubar")
         MainWindow.setMenuBar(self.menubar)
         self.statusbar = QtWidgets.QStatusBar(parent=MainWindow)
