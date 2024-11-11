@@ -12,4 +12,4 @@ class MainWindowExt(Ui_MainWindow):
         self.MainWindow.show()
 
     def update(self):
-        pass
+        a = float(self.lineEditX1.text())
